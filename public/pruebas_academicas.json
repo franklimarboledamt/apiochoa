@@ -1,0 +1,360 @@
+[
+   {
+      "status": "success",
+      "msg": "OK",
+      "data": {
+         "id": 495,
+         "name": "Prueba No 13 Grado 1",
+         "type": "Martes De Prueba Gold Virtual",
+         "numberofquestion": 10,
+         "numberofarea": 5,
+         "duration": 75,
+         "duration_limit": 120,
+         "description": "Prueba No 13 Virtual G1",
+         "image_url": "http:\/\/smartceinfes.com\/CeinfesExternos\/prd\/CeinfesExternos\/FabricaPreguntas\/BaseDatos\/Archivos\/ImageFiles\/PVMPG13\/PVMPG13_G1.png",
+         "anno": 2021,
+         "grado": 1,
+         "areas": [
+            {
+               "id": 4,
+               "name": "Lenguaje",
+               "order": 1,
+               "nroPregunta": 2,
+               "nroContexto": 0,
+               "idSesion": 496,
+               "subjects": [
+                  {
+                     "id": 1,
+                     "name": "Español",
+                     "order": 1,
+                     "questions": [
+                        {
+                           "question_uuid": 17890,
+                           "order": 1,
+                           "slug": "Pregunta 1 - Lenguaje G1 MP13 S1 2021",
+                           "context": false,
+                           "statement": "<div><span style=\"font-size: 12pt;\">DE ACUERDO CON LA SIGUIENTE INFORMACIÓN RESPONDE</span></div><div><br /></div><img src=\"http://smartceinfes.com/CeinfesExternos/prd/CeinfesExternos/FabricaPreguntas/BaseDatos/Archivos/ImageFiles/MP_P13_G1_2021_P1-2.png\" alt=\"\"/><div><br /></div><div><b><span style=\"font-size: 12pt;\">¿Por qué debes lavarte las manos?</span></b></div><div><br /></div><div><span style=\"font-size: 12pt;\">¿Has pensado alguna vez cuántos microbios puede haber en tus manos? Pues hay millones. La mayoría son inofensivos, pero algunos de ellos pueden causar enfermedades como la gripe y la diarrea.</span></div><div><br /></div><div><span style=\"font-size: 12pt;\">Nos tenemos que lavar las manos por nuestra salud. Para estar sanos. Si no las lavamos, podemos ir acumulando microbios que pueden hacer que nos pongamos enfermos nosotros y las personas con las que estamos. Todas las cosas que tocamos pueden estar sucias y traspasarnos gérmenes, como <u>el picaporte de una puerta, la baranda de una </u><u>escalera, las llaves que usamos para abrir la puerta y las monedas o billetes, entre otras.</u></span></div><div><br /></div><div>Adaptado de https://bit.ly/3q3yH8G</div><div><br /></div><div><span style=\"font-size: 12pt;\">La parte del texto que está subrayada, es importante porque busca</span></div>",
+                           "responses": [
+                              {
+                                 "option": "A",
+                                 "content": "mostrar cualidades.",
+                                 "order": 1,
+                                 "is_correct": false
+                              },
+                              {
+                                 "option": "B",
+                                 "content": "brindar ejemplos.",
+                                 "order": 2,
+                                 "is_correct": true
+                              },
+                              {
+                                 "option": "C",
+                                 "content": "describir lugares.",
+                                 "order": 3,
+                                 "is_correct": false
+                              }
+                           ]
+                        },
+                        {
+                           "question_uuid": 17891,
+                           "order": 2,
+                           "slug": "Pregunta 2 - Lenguaje G1 MP13 S1 2021",
+                           "context": false,
+                           "statement": "<div><span style=\"font-size: 12pt;\">DE ACUERDO CON LA SIGUIENTE INFORMACIÓN RESPONDE</span></div><div><br /></div><img src=\"http://smartceinfes.com/CeinfesExternos/prd/CeinfesExternos/FabricaPreguntas/BaseDatos/Archivos/ImageFiles/MP_P13_G1_2021_P1-2(1).png\" alt=\"\"/><div><br /></div><div><b><span style=\"font-size: 12pt;\">¿Por qué debes lavarte las manos?</span></b></div><div><br /></div><div><span style=\"font-size: 12pt;\">¿Has pensado alguna vez cuántos microbios puede haber en tus manos? Pues hay millones. La mayoría son inofensivos, pero algunos de ellos pueden causar enfermedades como la gripe y la diarrea.</span></div><div><br /></div><div><span style=\"font-size: 12pt;\">Nos tenemos que lavar las manos por nuestra salud. Para estar sanos. Si no las lavamos, podemos ir acumulando microbios que pueden hacer que nos pongamos enfermos nosotros y las personas con las que estamos. Todas las cosas que tocamos pueden estar sucias y traspasarnos gérmenes, como <u>el picaporte de una puerta, la baranda de una </u><u>escalera, las llaves que usamos para abrir la puerta y las monedas o billetes, entre otras.</u></span></div><div><br /></div><div>Adaptado de https://bit.ly/3q3yH8G</div><div><br /></div><div><div><span style=\"font-size: 12pt;\">A partir del título se puede afirmar que el texto tiene como propósito</span></div></div>",
+                           "responses": [
+                              {
+                                 "option": "A",
+                                 "content": "señalar la importancia del lavado de manos.",
+                                 "order": 1,
+                                 "is_correct": true
+                              },
+                              {
+                                 "option": "B",
+                                 "content": "enseñar paso a paso cómo lavarse las manos.",
+                                 "order": 2,
+                                 "is_correct": false
+                              },
+                              {
+                                 "option": "C",
+                                 "content": "mostrar los diferentes productos para manos.",
+                                 "order": 3,
+                                 "is_correct": false
+                              }
+                           ]
+                        }
+                     ]
+                  },
+                  {
+                     "id": 2,
+                     "name": "Inglés",
+                     "order": 2,
+                     "questions": [
+                        {
+                           "question_uuid": 17898,
+                           "order": 1,
+                           "slug": "Pregunta 9 - Inglés G1 MP13 S1 2021",
+                           "context": "",
+                           "statement": "<div><span style=\"font-size: 12pt;\">Lee la siguiente frase:</span></div><div><br /></div><div><span style=\"font-size: 12pt;\"><b><img src=\"http://smartceinfes.com/CeinfesExternos/prd/CeinfesExternos/FabricaPreguntas/BaseDatos/Archivos/ImageFiles/MP_P13_G1_2021_P9.png\" alt=\"\"/></b></span></div><div><br /></div><div><span style=\"font-size: 12pt;\">La imagen que representa lo expuesto en la frase es:</span></div>",
+                           "responses": [
+                              {
+                                 "option": "A",
+                                 "content": "<img src=\"http://smartceinfes.com/CeinfesExternos/prd/CeinfesExternos/FabricaPreguntas/BaseDatos/Archivos/ImageFiles/MP_P13_G1_2021_P9-A.png\" align=\"top\"/><font color=\"#c0c0c0\">Taken from https://bit.ly/31Sf6gL</font>",
+                                 "order": 1,
+                                 "is_correct": false
+                              },
+                              {
+                                 "option": "B",
+                                 "content": "<img src=\"http://smartceinfes.com/CeinfesExternos/prd/CeinfesExternos/FabricaPreguntas/BaseDatos/Archivos/ImageFiles/MP_P13_G1_2021_P9-B.png\" align=\"top\"/><font color=\"#c0c0c0\">Taken from https://bit.ly/31Sf6gL</font>",
+                                 "order": 2,
+                                 "is_correct": true
+                              },
+                              {
+                                 "option": "C",
+                                 "content": "<img src=\"http://smartceinfes.com/CeinfesExternos/prd/CeinfesExternos/FabricaPreguntas/BaseDatos/Archivos/ImageFiles/MP_P13_G1_2021_P9-C.png\" align=\"top\"/><font color=\"#c0c0c0\">Taken from https://bit.ly/31Sf6gL</font>",
+                                 "order": 3,
+                                 "is_correct": false
+                              }
+                           ]
+                        },
+                        {
+                           "question_uuid": 17899,
+                           "order": 2,
+                           "slug": "Pregunta 10 - Inglés G1 MP13 S1 2021",
+                           "context": false,
+                           "statement": "<div><span style=\"font-size: 12pt;\">Observa la siguiente imagen:</span></div><div><br /></div><img src=\"http://smartceinfes.com/CeinfesExternos/prd/CeinfesExternos/FabricaPreguntas/BaseDatos/Archivos/ImageFiles/MP_P13_G1_2021_P10.png\" alt=\"\"/><div><br /></div><div><span style=\"font-size: 12pt;\">La frase en inglés que mejor se relaciona con la imagen es:</span></div>",
+                           "responses": [
+                              {
+                                 "option": "A",
+                                 "content": "He is my father.",
+                                 "order": 1,
+                                 "is_correct": true
+                              },
+                              {
+                                 "option": "B",
+                                 "content": "She is pretty.",
+                                 "order": 2,
+                                 "is_correct": false
+                              },
+                              {
+                                 "option": "C",
+                                 "content": "The girl is tall.",
+                                 "order": 3,
+                                 "is_correct": false
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "id": 3,
+               "name": "Matemáticas",
+               "order": 4,
+               "subjects": [
+                  {
+                     "id": 32554,
+                     "name": "Matemáticas",
+                     "order": 1,
+                     "questions": [
+                        {
+                           "question_uuid": 17896,
+                           "order": 1,
+                           "slug": "Pregunta 7 - Matemáticas G1 MP13 S1 2021",
+                           "context": false,
+                           "statement": "<div><span style=\"font-size: 12pt;\">Para la feria de artesanías Juanita lleva 25 collares para vender. El primer día vende 5 y el segundo día vende 8, ¿cuántos collares le quedan para vender en el tercer día de la feria?</span></div>",
+                           "responses": [
+                              {
+                                 "option": "A",
+                                 "content": "5",
+                                 "order": 1,
+                                 "is_correct": false
+                              },
+                              {
+                                 "option": "B",
+                                 "content": "10",
+                                 "order": 2,
+                                 "is_correct": false
+                              },
+                              {
+                                 "option": "C",
+                                 "content": "12",
+                                 "order": 3,
+                                 "is_correct": true
+                              }
+                           ]
+                        },
+                        {
+                           "question_uuid": 17897,
+                           "order": 2,
+                           "slug": "Pregunta 8 - Matemáticas G1 MP13 S1 2021",
+                           "context": false,
+                           "statement": "<div><span style=\"font-size: 12pt;\">Pablo representa en una gráfica la cantidad de juguetes que tiene en su habitación:</span></div><div><br /></div><img src=\"http://smartceinfes.com/CeinfesExternos/prd/CeinfesExternos/FabricaPreguntas/BaseDatos/Archivos/ImageFiles/MP_P13_G1_2021_P8.png\" alt=\"\"/><div><br /></div><div><span style=\"font-size: 12pt;\">La tabla que representa la misma información que Pablo registró en la gráfica es:</span></div>",
+                           "responses": [
+                              {
+                                 "option": "A",
+                                 "content": "<img src=\"http://smartceinfes.com/CeinfesExternos/prd/CeinfesExternos/FabricaPreguntas/BaseDatos/Archivos/ImageFiles/MP_P13_G1_2021_P8-A(1).png\" align=\"top\"/>",
+                                 "order": 1,
+                                 "is_correct": false
+                              },
+                              {
+                                 "option": "B",
+                                 "content": "<img src=\"http://smartceinfes.com/CeinfesExternos/prd/CeinfesExternos/FabricaPreguntas/BaseDatos/Archivos/ImageFiles/MP_P13_G1_2021_P8-B(1).png\" align=\"top\"/>",
+                                 "order": 2,
+                                 "is_correct": true
+                              },
+                              {
+                                 "option": "C",
+                                 "content": "<img src=\"http://smartceinfes.com/CeinfesExternos/prd/CeinfesExternos/FabricaPreguntas/BaseDatos/Archivos/ImageFiles/MP_P13_G1_2021_P8-C(1).png\" align=\"top\"/>",
+                                 "order": 3,
+                                 "is_correct": false
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "id": 2,
+               "name": "Humanidades",
+               "order": 2,
+               "nroPregunta": 2,
+               "nroContexto": 0,
+               "idSesion": 496,
+               "subjects": [
+                  {
+                     "id": 3,
+                     "name": "Ciencias sociales",
+                     "order": 1,
+                     "questions": [
+                        {
+                           "question_uuid": 17892,
+                           "order": 1,
+                           "slug": "Pregunta 3 - Ciencias Sociales G1 MP13 S1 2021",
+                           "context": false,
+                           "statement": "<div><span style=\"font-size: 12pt;\">CON BASE EN LA SIGUIENTE INFORMACIÓN RESPONDE</span></div><div><br /></div><div><span style=\"font-size: 12pt;\">Camilo y Juan hablan de lo que hicieron durante el día. Camilo dice que estuvo compartiendo con varios niños, que todos tenían la misma edad y que cuando finalizaron las actividades en el salón, cada uno se fue a su respectiva casa. Mientras tanto, Juan le cuenta que también estuvo con varios niños realizando actividades divertidas y que cuando terminaron se fueron todos a la casa de la abuela a comer un rico postre que ella les había preparado con amor.</span></div><div><br /></div><div><span style=\"font-size: 12pt;\">Una norma que puede existir en el lugar en el que estuvo Camilo durante el día es:</span></div>",
+                           "responses": [
+                              {
+                                 "option": "A",
+                                 "content": "Recoger los residuos de la mascota.",
+                                 "order": 1,
+                                 "is_correct": false
+                              },
+                              {
+                                 "option": "B",
+                                 "content": "Lavar la loza después del almuerzo.",
+                                 "order": 2,
+                                 "is_correct": false
+                              },
+                              {
+                                 "option": "C",
+                                 "content": "Asistir a clases de manera puntual.",
+                                 "order": 3,
+                                 "is_correct": true
+                              }
+                           ]
+                        },
+                        {
+                           "question_uuid": 17893,
+                           "order": 2,
+                           "slug": "Pregunta 4 - Ciencias Sociales G1 MP13 S1 2021",
+                           "context": false,
+                           "statement": "<div><span style=\"font-size: 12pt;\">CON BASE EN LA SIGUIENTE INFORMACIÓN RESPONDE</span></div><div><br /></div><div><span style=\"font-size: 12pt;\">Camilo y Juan hablan de lo que hicieron durante el día. Camilo dice que estuvo compartiendo con varios niños, que todos tenían la misma edad y que cuando finalizaron las actividades en el salón, cada uno se fue a su respectiva casa. Mientras tanto, Juan le cuenta que también estuvo con varios niños realizando actividades divertidas y que cuando terminaron se fueron todos a la casa de la abuela a comer un rico postre que ella les había preparado con amor.</span></div><div><br /></div><div><span style=\"font-size: 12pt;\">Según el texto, sería correcto afirmar que en el grupo social con el que interactuó Juan, todos los niños</span></div>",
+                           "responses": [
+                              {
+                                 "option": "A",
+                                 "content": "están en el mismo grado escolar.",
+                                 "order": 1,
+                                 "is_correct": false
+                              },
+                              {
+                                 "option": "B",
+                                 "content": "pertenecen a la misma familia.",
+                                 "order": 2,
+                                 "is_correct": true
+                              },
+                              {
+                                 "option": "C",
+                                 "content": "viven en ciudades muy lejanas.",
+                                 "order": 3,
+                                 "is_correct": false
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "id": 1,
+               "name": "Ciencias Naturales",
+               "order": 3,
+               "subjects": [
+                  {
+                     "id": 567,
+                     "name": "Biología",
+                     "order": 1,
+                     "questions": [
+                        {
+                           "question_uuid": 17894,
+                           "order": 1,
+                           "slug": "Pregunta 5 - Ciencias Naturales G1 MP13 S1 2021",
+                           "context": false,
+                           "statement": "<div><span style=\"font-size: 12pt;\">En la descripción que hace Mariana de su animal favorito, menciona las siguientes características:</span></div><div><br /></div><div><span style=\"font-size: 12pt;\">*Es un mamífero.</span></div><div><span style=\"font-size: 12pt;\">*Su piel está cubierta de abundante pelo de dos colores.</span></div><div><span style=\"font-size: 12pt;\">*Su alimento favorito es el bambú.</span></div><div><br /></div><div><span style=\"font-size: 12pt;\">De acuerdo con las características mencionadas por Mariana, la imagen que representa a su animal favorito es:</span></div>",
+                           "responses": [
+                              {
+                                 "option": "A",
+                                 "content": "<img src=\"http://smartceinfes.com/CeinfesExternos/prd/CeinfesExternos/FabricaPreguntas/BaseDatos/Archivos/ImageFiles/MP_P13_G1_2021_P5-A.png\" align=\"top\"/>",
+                                 "order": 1,
+                                 "is_correct": false
+                              },
+                              {
+                                 "option": "B",
+                                 "content": "<img src=\"http://smartceinfes.com/CeinfesExternos/prd/CeinfesExternos/FabricaPreguntas/BaseDatos/Archivos/ImageFiles/MP_P13_G1_2021_P5-B.png\" align=\"top\"/>",
+                                 "order": 2,
+                                 "is_correct": false
+                              },
+                              {
+                                 "option": "C",
+                                 "content": "<img src=\"http://smartceinfes.com/CeinfesExternos/prd/CeinfesExternos/FabricaPreguntas/BaseDatos/Archivos/ImageFiles/MP_P13_G1_2021_P5-C.png\" align=\"top\"/>",
+                                 "order": 3,
+                                 "is_correct": true
+                              }
+                           ]
+                        },
+                        {
+                           "question_uuid": 17895,
+                           "order": 2,
+                           "slug": "Pregunta 6 - Ciencias Naturales G1 MP13 S1 2021",
+                           "context": false,
+                           "statement": "<div><span style=\"font-size: 12pt;\">Camilo encuentra en su libro de Ciencias la siguiente información:</span></div><div><br /></div><img src=\"http://smartceinfes.com/CeinfesExternos/prd/CeinfesExternos/FabricaPreguntas/BaseDatos/Archivos/ImageFiles/MP_P13_G1_2021_P6.png\" alt=\"\"/><div><br /></div><div><span style=\"font-size: 12pt;\">De acuerdo con lo que observa Camilo del ciclo de vida de la mariposa, él afirma que entre la oruga y la mariposa adulta existen diferencias, ya que la oruga</span></div>",
+                           "responses": [
+                              {
+                                 "option": "A",
+                                 "content": "carece de alas para volar mientras que la mariposa sí las tiene.",
+                                 "order": 1,
+                                 "is_correct": true
+                              },
+                              {
+                                 "option": "B",
+                                 "content": "tiene grandes ojos para ver mientras que la mariposa es ciega.",
+                                 "order": 2,
+                                 "is_correct": false
+                              },
+                              {
+                                 "option": "C",
+                                 "content": "se alimenta de huevos mientras que la mariposa es carnívora.",
+                                 "order": 3,
+                                 "is_correct": false
+                              }
+                           ]
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      }
+   }
+]

@@ -1,0 +1,158 @@
+.contenedor {
+  width: 80%;
+  margin: 0 auto;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.cabecera {
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.cabecera>.imagen>img {
+  width: 200px;
+  height: 300px;
+}
+
+.cabecera>.contenidoInfoPrueba {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.cabecera>.contenidoInfoPrueba>.labelsPrueba,
+.cabecera>.contenidoInfoPrueba>.infoPrueba {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.contenido {
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  padding: 30px;
+}
+
+.contenido {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.area {
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+}
+
+.materia {
+  margin-left: 20px;
+}
+
+.nombreArea,
+.nombreMateria,
+.preguntas {
+  text-align: left;
+}
+
+.nombreMateria {
+  margin-bottom: 40px;
+}
+
+.preguntas {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border: 1px dashed #ccc;
+  padding: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0px;
+}
+
+.pregunta {
+  border-bottom: 1px solid #ccc;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.nombrePregunta {
+  margin-bottom: 40px;
+}
+
+
+/* ********* Responsive Web Design ********* */
+@media (max-width: 900px) {
+
+  .cabecera>.imagen>img {
+    width: 150px;
+    height: 250px;
+  }
+
+  .cabecera {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  .cabecera>.contenidoInfoPrueba>.labelsPrueba>h2,
+  .cabecera>.contenidoInfoPrueba>.infoPrueba>h2 {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 670px) {
+  .contenedor {
+    width: 90%;
+    padding: 0px;
+  }
+}
+
+@media (max-width: 600px) {
+  .contenido {
+    padding: 15px;
+  }
+
+  .cabecera>.imagen>img {
+    width: 130px;
+    height: 230px;
+  }
+
+  .cabecera>.contenidoInfoPrueba>.labelsPrueba>h2,
+  .cabecera>.contenidoInfoPrueba>.infoPrueba>h2 {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 560px) {
+  .contenidoPregunta img {
+    width: 90%;
+  }
+}
+
+@media (max-width: 500px) {
+  .cabecera {
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+
+  .cabecera>.imagen>img {
+    width: 250px;
+    height: 350px;
+  }
+}
